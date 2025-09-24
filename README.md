@@ -13,4 +13,5 @@ I defined primary and foreign keys to establish relationships between these tabl
 
 # ER Diagram 
 This ER diagram visually represents the tables and their one-to-many relationships <br>
-![image alt]()
+![EER Diagram](https://github.com/Vishal-707/SQL-Internship-Task-1/blob/159f8651b928d5921ce920e21a70e73fbab3fbba/EER-Diagram%20E-commerce.png) <br>
+
